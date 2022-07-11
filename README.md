@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsubaron&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsubaron&theme=nord_bright)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsubaron
 )](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsubaron)](https://github.com/tsubaron/github-profile-trophy)
