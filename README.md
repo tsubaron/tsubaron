@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsubaron&theme=nord_bright)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsubaron&layout=compact&theme=nord_bright)
